@@ -1,0 +1,16 @@
+h1 {
+  font-family: "Cinzel", Helvetica;
+  color: #cc9b1e;
+  text-align: center;
+  font-size: 6rem;
+  position: absolute;
+  z-index: 5;
+  top: 200px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container-img {
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=homepage.css.map */
