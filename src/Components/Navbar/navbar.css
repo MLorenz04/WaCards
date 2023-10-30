@@ -1,0 +1,12 @@
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+nav #navbar,
+nav #lang {
+  display: flex;
+}
+nav .link {
+  font-size: 1.75rem;
+}/*# sourceMappingURL=navbar.css.map */
